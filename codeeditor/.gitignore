@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+/tools/tailwindcss.exe
+/src/styles/output.css
+/node_modules
+/dist
+
